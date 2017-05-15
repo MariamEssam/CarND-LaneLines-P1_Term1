@@ -10,7 +10,9 @@ Thesteps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteCurve.png "Detected Lines"
+[image2]: ./test_images_output/Extrapolationresult.png "Detected Lines after Extrapolation"
+
 ---
 
 ### Reflection
